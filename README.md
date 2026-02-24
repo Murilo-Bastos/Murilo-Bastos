@@ -2,12 +2,12 @@
 
 ## Olá, Eu sou o Murilo, Desenvolvedor FullStack em Evolução 🧛🏻
 
-- 🎓 Formado em Analise e Desenvolvimento de Sistemas
+- 🎓 **Formado em Analise e Desenvolvimento de Sistemas**
 - 🔭 Conhecimento aprofundado em Desenvolvimento Mobile
-- 🎯 Atualmente estudando <span style="color:#BD93F9"><b>Node.js</b></span>  
+- 🎯 Atualmente estudando **Node.js**
 - 📫 Você pode me contatar pelo LinkedIn: <a href="https://www.linkedin.com/in/murilo-bastos-26559129a/" style="color:#8BE9FD">Murilo Bastos</a>
 - 📍 Localizado: Curitiba - PR
-- ⚡ Fun fact: Já integrei IA em um chat de aplicativo financeiro com <span style="color:#50FA7B"><b>FastAPI</b></span>, depois troquei para <span style="color:#BD93F9"><b>Node.js</b></span>  
+- ⚡ Fun fact: Já integrei IA em um chat de aplicativo financeiro com **FastAPI**, depois troquei para **Node.js**
 
 ---
 
